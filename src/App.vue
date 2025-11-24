@@ -14,6 +14,7 @@ import Button from "primevue/button"
   </div>
   <HelloWorld msg="Vite + Vue" />
   <Button>Нажми на меня</Button>
+  <h1 class="text-3xl font-bold underline"> Hello world! </h1>
 </template>
 
 <style scoped>
